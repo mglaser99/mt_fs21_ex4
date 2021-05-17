@@ -1,5 +1,8 @@
 # MT Exercise 4
 
+## Run the code
+To run the code follow the same instructions as in the MT_FS21_4_Exercise.pdf. All necessary files have been adapted.
+
 ## Changes
 
 ### deen_transformer_layerdrop.yaml
