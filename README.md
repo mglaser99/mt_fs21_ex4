@@ -1,3 +1,14 @@
+# MT Exercise 4
+
+## Changes
+
+### deen_transformer_layerdrop.yaml
+- setting active_layers and layerdrop
+
+### evaluate.sh & train.sh
+- changing the model to deen_transformer_layerdrop
+
+
 # mt_fs21_ex4
 
 This repo is just a collection of scripts showing how to install [JoeyNMT](https://github.com/joeynmt/joeynmt), download
