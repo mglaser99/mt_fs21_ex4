@@ -3,9 +3,9 @@ name: "deen_transformer_regular"
 data:
     src: "de"
     trg: "en"
-    train: "data/train.bpe"
-    dev:   "data/dev.bpe"
-    test:  "data/test.bpe"
+    train: "data/train.bpe" # "data/toy/train"
+    dev:   "data/dev.bpe" # "data/toy/dev"
+    test:  "data/test.bpe" # "data/toy/test"
     level: "bpe"
     lowercase: False
     max_sent_length: 100
