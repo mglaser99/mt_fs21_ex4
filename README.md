@@ -1,7 +1,9 @@
 # MT Exercise 4
 
 ## Run the code
-To run the code follow the same instructions as in the MT_FS21_4_Exercise.pdf. All necessary files have been adapted.
+To run the code follow the same instructions as in the MT_FS21_4_Exercise.pdf. All necessary files have been adapted. Except when Installing JoeyNMT instead of creating a new branch layerdrop check out the already existing branch by running
+
+	git checkout --track origin/layerdrop
 
 ## Changes
 
